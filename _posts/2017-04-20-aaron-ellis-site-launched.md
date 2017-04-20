@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Aaron Ellis, PhD Student, Launches Site"
 date: 2017-04-20
 ---
