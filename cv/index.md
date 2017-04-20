@@ -1,5 +1,4 @@
 ---
-layout: default
-markdown: kramdown
+layout: cv
 ---
 ## something
